@@ -1,4 +1,4 @@
-Pricepedia
+Price Discovery
 ==========
 
-Pricepedia - Dal Attae ka bhav
+Price Discovery Andriod Mobile App - Dal Attae ka bhav
